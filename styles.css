@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main {
+  margin: 0;
+}
+
+.conteiner {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 90%;
+  background: rgb(197, 192, 192);
+  margin: 0 auto;
+}
+
+.noticia1 {
+  background: red;
+  padding: 2%;
+  width: 30%;
+  box-sizing: border-box;
+}
+.noticia1 img {
+  width: 90%;
+}
+.noticia2 {
+  background: lightblue;
+  padding: 2%;
+  width: 30%;
+  box-sizing: border-box;
+}
+.noticia2 img {
+  width: 90%;
+}
+.noticia3 {
+  background: lightgreen;
+  padding: 2%;
+  width: 30%;
+  box-sizing: border-box;
+}
+.noticia3 img {
+  width: 90%;
+}
